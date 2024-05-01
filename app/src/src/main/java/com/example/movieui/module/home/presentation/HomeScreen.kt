@@ -1,4 +1,4 @@
-package com.example.moviebooking.home.presentation
+package com.example.movieui.module.home.presentation
 
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.*
@@ -6,10 +6,6 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.*
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
